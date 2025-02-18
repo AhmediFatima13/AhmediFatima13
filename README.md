@@ -1,16 +1,30 @@
-## Hi there 👋
+```css
+>_ [⣷⡿⣟⣯⣷⣾⣽⣻] Initializing system... 
+>_ [████░░░░░░░░] 40% Loading user profile...  
+>_ whoami
 
-<!--
-**AhmediFatima13/AhmediFatima13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌───────────────────────────────────────────────────────┐ 
+ 👨‍💻 A tech explorer passionate about AI & software dev 
+ 🚀 Turning bugs into features, one line at a time!            
+└───────────────────────────────────────────────────────┘ 
 
-Here are some ideas to get you started:
+>_ scanning ~/system/info...  
+[✔] Programming modules detected: Python, Java, Linux  
+[✔] Web frameworks initialized: Flask, VueJS, Jinja2  
+[✔] Database & caching active: SQLite, Redis  
+[✔] Core competencies verified: Problem-Solving, Analytical Thinking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>_ ls ~/active-projects  
+┌──( AhmediFatima13@MyDevSpace )─[ ~/projects ]  
+│  
+├─ 🛠️ Rebuilding & optimizing web applications  
+├─ 📊 AI-powered analytics & automation  
+├─ 🔹 Scaling data pipelines & caching systems  
+│  
+└─> 🚀 Deploying... 
+
+$ sudo echo "Keep coding, keep growing!"  
+  _Access granted. Execute your dreams.  
+```
+
+  
