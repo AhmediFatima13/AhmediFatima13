@@ -17,12 +17,8 @@
 [✔] System Status: Upgrading daily...  
 
 >_ ls ~/active-projects  
-┌──( AhmediFatima13@MyDevSpace )─[ ~/projects ]  
-│  
-├─ 🛠️ Rebuilding & optimizing web applications  
-├─ 📊 AI-powered analytics & automation  
-├─ 🔹 Scaling data pipelines & caching systems  
-│  
+┌──( AhmediFatima13@MyDevSpace )─[ ~/projects ]   
+├─ 🛠️ Rebuilding & optimizing web applications   
 └─> 🚀 Deploying... 
 
 $ sudo echo "Keep coding, keep growing!"  
