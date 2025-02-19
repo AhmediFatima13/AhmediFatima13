@@ -1,20 +1,14 @@
 ```css
->_ [⣷⡿⣟⣯⣷⣾⣽⣻] Initializing system...
->_ [████████░░░░] 60% Loading user profile...
->_ Fetching resources... ⏳
+>_ [⣷⡿⣟⣯⣷⣾⣽⣻] System booting up...  
+>_ [████████░░░░] 60% Fetching resources... 
 >_ whoami
-
-┌───────────────────────────────────────────────────────┐ 
- 👨‍💻 A tech explorer passionate about AI & software dev 
+ 👨‍💻 AI and Software Dev Explorer
  🚀 Turning bugs into features, one line at a time!            
-└───────────────────────────────────────────────────────┘ 
 
 >_ scanning ~/system/info...  
-[✔] Programming modules detected: Python, Java, Linux  
-[✔] Web frameworks initialized: Flask, VueJS, Jinja2  
-[✔] Database & caching active: SQLite, Redis  
-[✔] Core competencies verified: Problem-Solving, Analytical Thinking
-[✔] System Status: Upgrading daily...  
+[✔] Core stack: Python, Java, Flask, Linux  
+[✔] Databases & Caching: SQLite, Redis  
+[✔] System Status: Upgrading daily...   
 
 >_ ls ~/active-projects  
 ┌──( AhmediFatima13@MyDevSpace )─[ ~/projects ]   
